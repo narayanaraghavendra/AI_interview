@@ -1,0 +1,11 @@
+gradio
+langgraph
+langchain
+langchain-groq
+faster-whisper
+pytesseract
+opencv-python
+pillow
+python-pptx
+pymupdf
+matplotlib
