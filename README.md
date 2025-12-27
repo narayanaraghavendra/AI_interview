@@ -1,10 +1,10 @@
-# AI Adaptive Interviewer (Production)
+# AI Interviewer
 
 ## Features
 - Groq-powered LLM reasoning
 - LangGraph adaptive interview flow
 - Whisper speech-to-text (recording supported)
-- OCR + PPT/PDF understanding
+- OCR/PPT/PDF understanding
 - Confidence & depth analytics
 - Gradio UI
 
